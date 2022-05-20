@@ -7,13 +7,13 @@
           <strong>NEWS .</strong>
         </div>
         <ul class="links">
-          <li class="content-link"><NuxtLink to="/">หน้าแรก</NuxtLink></li>
+          <li class="content-link"><NuxtLink to="/">HOME</NuxtLink></li>
           <li class="content-link">
-            <NuxtLink to="/about">เกี่ยวกับเรา</NuxtLink>
+            <NuxtLink to="/local">LOCAL</NuxtLink>
           </li>
-          <li class="content-link"><NuxtLink to="/">ผลงาน</NuxtLink></li>
-          <li class="content-link"> <NuxtLink to="/service">บริการ</NuxtLink></li>
-          <li class="content-link"><NuxtLink to="/">ช่องทางติดต่อ</NuxtLink></li>
+          <li class="content-link"><NuxtLink to="/">tt</NuxtLink></li>
+          <li class="content-link"> <NuxtLink to="/service">tt</NuxtLink></li>
+          <li class="content-link"><NuxtLink to="/">tt</NuxtLink></li>
         </ul>
         <div>
           <div class="burger-icon">
