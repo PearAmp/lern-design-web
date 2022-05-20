@@ -4,7 +4,7 @@
       <v-row>
         <v-col cols="12" md="9">
           <v-row>
-            <v-col cols="4" md="3" class="Lastnews">
+            <v-col cols="3" md="3" class="Lastnews">
               <div class="contenthead">
                 <h4>LAST NEWS</h4>
               </div>
@@ -46,7 +46,7 @@
               </div>
             </v-col>
 
-            <v-col cols="8" md="9" class="contentmedium">
+            <v-col cols="9" md="9" class="contentmedium">
               <v-row class="Bgcontent">
                 <v-col cols="6" md="6">
                   <img
@@ -56,7 +56,8 @@
                   />
                 </v-col>
                 <v-col cols="6" md="6">
-                  <p>
+                  <div class="textmedium">
+                      <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Aliquid nulla ipsa qui
                   </p>
@@ -65,10 +66,11 @@
                     <li>Lorem.</li>
                     <li>Lorem.</li>
                   </ul>
+                  </div>
                 </v-col>
               </v-row>
 
-              <v-row>
+              <v-row class="d-flex justify-center">
                 <v-col cols="4" md="4">
                   <img
                     class="Imggraph"
@@ -276,5 +278,21 @@ export default {
   .ContentHots {
     padding-left: 0;
   }
+  .Lastnews {
+      font-size: 0.8rem;
+  }
+  .ImgUs {
+      width: 160px;
+  }
+  .textmedium {
+      font-size: 0.8rem;
+  }
+  .Imggraph {
+      width: 95px;
+  }
+  .contentitems {
+      font-size: 0.85rem;
+  }
+
 }
 </style>
