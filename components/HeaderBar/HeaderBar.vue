@@ -11,7 +11,7 @@
           <li class="content-link">
             <NuxtLink to="/local">LOCAL</NuxtLink>
           </li>
-          <li class="content-link"><NuxtLink to="/">tt</NuxtLink></li>
+          <li class="content-link"><NuxtLink to="/vaccines">VACCINES</NuxtLink></li>
           <li class="content-link"> <NuxtLink to="/service">tt</NuxtLink></li>
           <li class="content-link"><NuxtLink to="/">tt</NuxtLink></li>
         </ul>

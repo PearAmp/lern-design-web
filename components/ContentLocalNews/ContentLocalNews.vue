@@ -282,7 +282,7 @@ export default {
       font-size: 0.8rem;
   }
   .ImgUs {
-      width: 160px;
+      width: 100px;
   }
   .textmedium {
       font-size: 0.8rem;
@@ -293,6 +293,26 @@ export default {
   .contentitems {
       font-size: 0.85rem;
   }
+  
+  .col-3 {
+    padding: 0;
+    padding-top: 20px;
+  }
 
+}
+@media screen and (max-width: 820px) {
+    .ImgUs {
+      width: 280px;
+  }
+  
+}
+@media screen and (max-width: 576px) {
+    .ImgUs {
+      width: 120px;
+  }
+  .Vaccines {
+    height: 170px;
+}
+  
 }
 </style>
