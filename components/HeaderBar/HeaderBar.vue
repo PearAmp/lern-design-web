@@ -12,8 +12,8 @@
             <NuxtLink to="/local">LOCAL</NuxtLink>
           </li>
           <li class="content-link"><NuxtLink to="/vaccines">VACCINES</NuxtLink></li>
-          <li class="content-link"> <NuxtLink to="/service">tt</NuxtLink></li>
-          <li class="content-link"><NuxtLink to="/">tt</NuxtLink></li>
+          <li class="content-link"> <NuxtLink to="/about">ABOUT</NuxtLink></li>
+          <li class="content-link"><NuxtLink to="/contact">CONTACT</NuxtLink></li>
         </ul>
         <div>
           <div class="burger-icon">
