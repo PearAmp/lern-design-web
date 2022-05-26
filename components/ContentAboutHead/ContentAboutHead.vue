@@ -41,7 +41,7 @@ export default {
 <style lang="scss" scoped>
 .container {
   max-width: 1320px;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .imgBg {
   background-image: url('https://www.mhesi.go.th/images/2563/pornnapa/130463/COVID/1.jpg');
