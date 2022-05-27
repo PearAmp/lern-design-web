@@ -93,6 +93,7 @@ export default {
 .container {
   max-width: 1320px;
   padding-top: 20px;
+  padding: 0;
 }
 .contact {
   background-color: #eeeeee;
